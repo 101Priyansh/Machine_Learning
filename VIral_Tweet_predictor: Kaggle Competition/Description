@@ -1,0 +1,3 @@
+Viral Tweet Predictor using Metadata and Text.
+Using 'NLTK' 'TFIDFvectorizer' and 'K-nearest-neighbour' to predict the viral tweets.
+Accuracy : ~94%
